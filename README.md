@@ -71,4 +71,13 @@ Percebi que, ao estruturar o Prompt Final, consegui transformar uma ideia vaga e
 - Como personalizar o projeto com meu estilo e minhas escolhas.  
 - O valor de documentar o processo (prints e vídeo) para evidenciar a evolução.  
 
-Essa experiência mostrou que usar IA não é apenas sobre automatizar tarefas, mas também sobre **refinar o pensamento e dar forma às ideias**.
+Essa experiência mostrou que usar IA não é apenas sobre automatizar tarefas, mas também sobre **refinar o pensamento e dar forma às ideias**. 
+
+📸 Evidências do Processo
+Essas são algumas das interações usadas na criação deste aplicativo com o uso do Vibe Coding. Cada imagem representa uma etapa importante do desenvolvimento e mostra como o usuário interage com o sistema:
+![1000078422](https://github.com/user-attachments/assets/c5f1217e-eb33-4c52-9dfc-550a1f3fbbff)
+![1000078434](https://github.com/user-attachments/assets/0da86795-3a51-4e07-8fc6-ca1da446dc6f)
+![1000078426](https://github.com/user-attachments/assets/f60b39bb-cf95-4834-8382-34b32ea0f657)
+![1000078406](https://github.com/user-attachments/assets/1e458d76-f374-4920-9fce-16b946c028b1)
+![1000078411](https://github.com/user-attachments/assets/01f5e74c-65c3-4aec-8c6b-6e7b9f8e6e55)
+
